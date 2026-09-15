@@ -1,0 +1,21 @@
+@"
+venv/
+env/
+.venv/
+.env
+config/.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+models/*.h5
+models/*.keras
+data/plantvillage/train/
+data/plantvillage/test/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+"@ | Out-File -Encoding utf8 .gitignore
