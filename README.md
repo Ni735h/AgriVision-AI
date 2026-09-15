@@ -31,8 +31,5 @@ AI-powered plant disease detection. Upload a leaf image → get plant name, dise
 4. Run:
    streamlit run app/app.py
 
-## 📸 Screenshots
-![AgriVision AI](screenshot.png)
-
 ## 📄 License
-MIT
+MIT License — free to use, modify, and share.
